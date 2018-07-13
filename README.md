@@ -1,6 +1,5 @@
-# Project: Amsler Track
-## This is a github for the UHACK 2018
+## Project: Amsler Track
 
-#### faces.py\
+#### faces.py
 * Facial detection using OpenCV
 
