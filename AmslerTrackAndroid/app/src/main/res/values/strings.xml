@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AmslerTrack</string>
+    <string name="action_settings">Settings</string>
+    <string name="tip_title">Welcome to Amsler Track</string>
+    <string name="text_tip_1">Cover one eye</string>
+    <string name="text_tip_2">Keep a distance of 30 to 45 cm</string>
+    <string name="button_text_next">Next</string>
+    <string name="button_text_ok">Ok</string>
+    <string name="cardinal_west">W</string>
+</resources>
